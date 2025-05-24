@@ -1,2 +1,2 @@
 # ATV.HTML
-atidade html
+atividade html
